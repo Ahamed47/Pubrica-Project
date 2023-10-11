@@ -1,0 +1,43 @@
+#basic-navbar-nav {
+  padding-left: 478px;
+}
+
+.nav-item1 {
+  padding-left: 40px;
+}
+.nav-item {
+  margin-right: 10px !important;
+}
+
+.nav-item2 {
+  margin-right: 60px !important;
+}
+
+.navcolor {
+  background: #3a6566 !important;
+}
+
+.row {
+  margin-right: 0px;
+}
+
+.col-md-7 {
+  /* padding-top: 15%; */
+  padding-top: 80px;
+  padding-left: 40px;
+}
+
+.featurette-divider {
+  padding-top: 30px;
+  margin-top: 60px;
+}
+
+/* svg {
+  padding-left: 40px;
+} */
+
+.image-Feature {
+  height: 300px !important;
+  float: right;
+  width: 90%;
+}
