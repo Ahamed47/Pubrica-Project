@@ -12,6 +12,7 @@ function App() {
         <Header></Header>
         <Routes>
           <Route exact path="/" element={<Home />}></Route>
+          <Route exact path="/Pubrica-Project" element={<Home />}></Route>
           <Route path="/about" element={<Aboutus />}></Route>
         </Routes>
       </Router>
